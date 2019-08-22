@@ -1,0 +1,242 @@
+{
+  "artikli": [
+    {
+      "id": "laptop-1",
+      "naziv": "Laptop Asus X540YA",
+      "cijena": "999.99",
+      "slika": "../img/laptop-1-removebg-preview.png"
+    },
+    {
+      "id": "laptop-2",
+      "naziv": "Laptop Asus X540MA",
+      "cijena": "1399.00",
+      "slika": "../img/laptop-2-removebg-preview.png"
+    },
+    {
+      "id": "laptop-3",
+      "naziv": "Laptop HP 255 G7",
+      "cijena": "689.99",
+      "slika": "../img/laptop-3.png"
+    },
+    {
+      "id": "laptop-4",
+      "naziv": "DELL Inspiron 15-3573",
+      "cijena": "799.99",
+      "slika": "../img/laptop-1-removebg-preview.png"
+    },
+    {
+      "id": "pc-1",
+      "naziv": "Apple iMac",
+      "cijena": "2999.99",
+      "slika": "../img/pc-1.png"
+    },
+    {
+      "id": "pc-2",
+      "naziv": "Računar HP Desktop Pro G4 MT",
+      "cijena": "1599.00",
+      "slika": "../img/pc-2-removebg-preview.png"
+    },
+    {
+      "id": "pc-3",
+      "naziv": "Računar Dell Desktop Pro G2 MT",
+      "cijena": "889.99",
+      "slika": "../img/pc-3-removebg-preview.png"
+    },
+    {
+      "id": "pc-4",
+      "naziv": "DELL Inspiron 15-9877",
+      "cijena": "1750.00",
+      "slika": "../img/pc-4-removebg-preview.png"
+    },
+    {
+      "id": "monitor-1",
+      "naziv": "ASUS VS197DE 18,5 LED Monitor",
+      "cijena": "399.99",
+      "slika": "../img/monitor-1.png"
+    },
+    {
+      "id": "monitor-2",
+      "naziv": "Philips 18,5 LED Monitor",
+      "cijena": "399.00",
+      "slika": "../img/monitor-4.png"
+    },
+    {
+      "id": "monitor-3",
+      "naziv": "AOC 21,5 LED Monitor",
+      "cijena": "689.99",
+      "slika": "../img/monitor-5-removebg-preview.png"
+    },
+    {
+      "id": "monitor-4",
+      "naziv": "Dell 21,5 LED Monitor",
+      "cijena": "799.99",
+      "slika": "../img/monitor-1.png"
+    },
+    {
+      "id": "monitor-5",
+      "naziv": "Acer 21,5 LED Monitor",
+      "cijena": "999.99",
+      "slika": "../img/monitor-4.png"
+    },
+    {
+      "id": "monitor-6",
+      "naziv": "Dell 21,5 LED Monitor",
+      "cijena": "1199.99",
+      "slika": "../img/monitor-5-removebg-preview.png"
+    },
+    {
+      "id": "monitor-7",
+      "naziv": "Acer 35,5 LED Monitor",
+      "cijena": "4500.00",
+      "slika": "../img/monitor-6.png"
+    },
+    {
+      "id": "monitor-8",
+      "naziv": "IIYAMA Prolite 21,5 VA LED monitor",
+      "cijena": "550.00",
+      "slika": "../img/monitor-8.png"
+    },
+    {
+      "id": "iphone7",
+      "naziv": "Apple Iphone 7",
+      "cijena": "999.00",
+      "slika": "../img/iphone7-removebg-preview.png"
+    },
+    {
+      "id": "iphonex",
+      "naziv": "Apple Iphone X",
+      "cijena": "2399.00",
+      "slika": "../img/iphonex-removebg-preview.png"
+    },
+    {
+      "id": "galaxys9",
+      "naziv": "Samsung Galaxy S9",
+      "cijena": "1600.00",
+      "slika": "../img/s9-removebg-preview.png"
+    },
+    {
+      "id": "galaxys8",
+      "naziv": "Samsung Galaxy S8",
+      "cijena": "799.99",
+      "slika": "../img/s8.png"
+    },
+    {
+      "id": "huawei",
+      "naziv": "Huawei Tablet",
+      "cijena": "999.99",
+      "slika": "../img/huawei-removebg-preview.png"
+    },
+    {
+      "id": "ipad",
+      "naziv": "Apple Ipad 5",
+      "cijena": "1199.00",
+      "slika": "../img/ipad-removebg-preview.png"
+    },
+    {
+      "id": "galaxys7",
+      "naziv": "Samsung Galaxy S7",
+      "cijena": "500.00",
+      "slika": "../img/s7.png"
+    },
+    {
+      "id": "ipad-plus",
+      "naziv": "Apple Ipad 5 Plus",
+      "cijena": "1550.00",
+      "slika": "../img/ipad-removebg-preview.png"
+    },
+    {
+      "id": "game-1",
+      "naziv": "Sonny Playstation 4",
+      "cijena": "720.00",
+      "slika": "../img/game-1.png"
+    },
+    {
+      "id": "game-2",
+      "naziv": "Sonny Playstation 3",
+      "cijena": "409.99",
+      "slika": "../img/game-2.png"
+    },
+    {
+      "id": "game-3",
+      "naziv": "Xbox 2",
+      "cijena": "800.00",
+      "slika": "../img/game-3.png"
+    },
+    {
+      "id": "game-4",
+      "naziv": "GT Throne Gamer Chair",
+      "cijena": "170.00",
+      "slika": "../img/game-4.png"
+    },
+    {
+      "id": "klima-1",
+      "naziv": "Klima uređaj Mitsubishi HJ 2,5 kW",
+      "cijena": "650.00",
+      "slika": "../img/klima-2.png"
+    },
+    {
+      "id": "klima-2",
+      "naziv": "Klima uređaj Tesla 18-ka TC51H3",
+      "cijena": "729.99",
+      "slika": "../img/klima-2.png"
+    }
+  ],
+  "shop": [
+    {
+      "idPomocni": "pc-1",
+      "naziv": "Apple iMac",
+      "cijena": "2999.99",
+      "slika": "../img/pc-1.png",
+      "id": 53
+    },
+    {
+      "idPomocni": "game-1",
+      "naziv": "Sonny Playstation 4",
+      "cijena": "720.00",
+      "slika": "../img/game-1.png",
+      "id": 54
+    },
+    {
+      "idPomocni": "galaxys9",
+      "naziv": "Samsung Galaxy S9",
+      "cijena": "1600.00",
+      "slika": "../img/s9-removebg-preview.png",
+      "id": 55
+    },
+    {
+      "idPomocni": "klima-1",
+      "naziv": "Klima uređaj Mitsubishi HJ 2,5 kW",
+      "cijena": "650.00",
+      "slika": "../img/klima-2.png",
+      "id": 56
+    },
+    {
+      "idPomocni": "game-3",
+      "naziv": "Xbox 2",
+      "cijena": "800.00",
+      "slika": "../img/game-3.png",
+      "id": 58
+    },
+    {
+      "idPomocni": "monitor-8",
+      "naziv": "IIYAMA Prolite 21,5 VA LED monitor",
+      "cijena": "550.00",
+      "slika": "../img/monitor-8.png",
+      "id": 59
+    },
+    {
+      "idPomocni": "galaxys9",
+      "naziv": "Samsung Galaxy S9",
+      "cijena": "1600.00",
+      "slika": "../img/s9-removebg-preview.png",
+      "id": 60
+    }
+  ],
+  "korisnici": [
+    {
+      "email": "faruk@msn.com",
+      "sifra": "faruk",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+@mixin respond($breakpoint) {
+    @if $breakpoint == iPad {
+        @media only screen and (max-width: 50em) { @content };    
+    }
+    @if $breakpoint == iPhonePlus {
+        @media only screen and (max-width: 26em) { @content };     
+    }
+    @if $breakpoint == iPhone {
+        @media only screen and (max-width: 24em) { @content };     
+    }
+    @if $breakpoint == iPhone5 {
+        @media only screen and (max-width: 20em) { @content };     
+    }
+    // @if $breakpoint == tab-land {
+    //     @media only screen and (max-width: 75em) { @content };   
+    // }
+    // @if $breakpoint == big-desktop {
+    //     @media only screen and (min-width: 112.5em) { @content };   
+    // }
+}

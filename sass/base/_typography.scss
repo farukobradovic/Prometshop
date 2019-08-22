@@ -1,0 +1,124 @@
+body{
+    color: var(--color-typography-dark);
+    font-family: 'Roboto', sans-serif;
+}
+
+.paragraph-action{
+    // text-align: center;
+    margin-top: 4rem;
+    font-weight: 700;
+    font-size: 1.6rem;
+    color: red;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+   
+}
+
+.heading-primary{
+    font-size: 3rem;
+    font-weight: 300;
+}
+
+.heading-primary-2{
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    @include respond(iPhone) {  
+           margin: .5rem;
+    }
+    &::after{
+        content: '';
+        position: absolute;
+        width: 5rem;
+        border-bottom: 3px solid var(--color-primary-light);
+        left:50%;
+        top: 5rem;
+        transform: translate(-50%);
+        @include respond(iPhone) {  
+           top: 13rem;
+        }
+    }
+}
+
+.paragraph-place-desc{
+    color: var(--color-primary-light);
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.paragraph{
+    font-size: 1.6rem;
+    letter-spacing: .1rem;
+    margin-bottom: .5rem;
+
+    span{
+        font-weight: 600;
+    }
+}
+
+.paragraph-uppercase{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: var(--color-typography-light);
+    font-size: 1.3rem;
+}
+
+.paragraph-desc{
+    font-size: 1.3rem;
+    color: var(--color-typography-light-2);
+    margin-top: .5rem;
+}
+
+.heading-category{
+    font-weight: 400;
+    font-size: 2.5rem;
+    margin-top: 4rem;
+    position: relative;
+    &::after{
+        content: '';
+        position: absolute;
+        width: 3rem;
+        border-bottom: 3px solid var(--color-primary-light);
+        left:50%;
+        top: 4rem;
+        transform: translate(-50%);
+    }
+}
+
+.heading-form{
+    font-size: 2.5rem;
+    // color: var(--color-primary-light);
+    margin-bottom: 5rem;
+    position: relative;
+    &::after{
+        content: '';
+        position: absolute;
+        width: 5rem;
+        border-bottom: 3px solid var(--color-primary-light);
+        left:50%;
+        top: 4rem;
+        transform: translate(-50%);
+        @include respond(iPhone) {  
+            top: 8rem;
+        }
+        @include respond(iPhone) {  
+            text-align: center;
+        }
+    }
+
+}
+
+.heading-web{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    @include respond(iPhone) {  
+        margin-left: .5rem;
+    }
+    span{
+        font-size: 1.4rem;
+    }
+}

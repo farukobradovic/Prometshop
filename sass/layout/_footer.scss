@@ -1,0 +1,79 @@
+.footer{
+    background: var(--color-primary-dark);
+    padding: 3rem;
+
+   .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    @include respond(iPhone) {  
+        flex-direction: column;
+    }
+    .paragraph-contact{
+        color: var(--color-typography-light);
+        font-size: 1.7rem;
+        margin-bottom: 1rem;
+        font-weight: 600;
+        
+    }
+    .contact{
+
+        display: flex;
+        flex-direction: column;
+        @include respond(iPhone) {  
+            width: 100%;
+            margin-bottom: 2rem;
+        }
+        .paragraph-number{
+            color: var(--color-typography-light);
+            font-size: 1.4rem;
+            margin-bottom: .8rem;
+
+            i{
+                margin-right: 1rem;
+            }
+            a{
+                color: var(--color-typography-light);
+                font-size: 1.4rem;
+                margin-bottom: .8rem;
+                text-decoration: none;
+            }
+        }
+        
+    }
+
+    .links{
+        @include respond(iPhone) {  
+            width: 100%;
+            margin-bottom: 2rem;
+        }
+        .list{
+            display: flex;
+            flex-direction: column;
+            list-style: none;
+
+            li{
+                margin-bottom: .5rem;
+            }
+            a{
+                color: var(--color-typography-light);
+                text-decoration: none;
+                font-size: 1.3rem;
+               
+                &:hover{
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+
+    .copyright{
+        @include respond(iPhone) {  
+            width: 100%;
+            margin-bottom: .2rem;
+        }
+        color: var(--color-typography-light);
+        font-size: 1.3rem;
+    }
+   }
+}
