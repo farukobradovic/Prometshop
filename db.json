@@ -182,55 +182,6 @@
     }
   ],
   "shop": [
-    {
-      "idPomocni": "pc-1",
-      "naziv": "Apple iMac",
-      "cijena": "2999.99",
-      "slika": "../img/pc-1.png",
-      "id": 53
-    },
-    {
-      "idPomocni": "game-1",
-      "naziv": "Sonny Playstation 4",
-      "cijena": "720.00",
-      "slika": "../img/game-1.png",
-      "id": 54
-    },
-    {
-      "idPomocni": "galaxys9",
-      "naziv": "Samsung Galaxy S9",
-      "cijena": "1600.00",
-      "slika": "../img/s9-removebg-preview.png",
-      "id": 55
-    },
-    {
-      "idPomocni": "klima-1",
-      "naziv": "Klima uređaj Mitsubishi HJ 2,5 kW",
-      "cijena": "650.00",
-      "slika": "../img/klima-2.png",
-      "id": 56
-    },
-    {
-      "idPomocni": "game-3",
-      "naziv": "Xbox 2",
-      "cijena": "800.00",
-      "slika": "../img/game-3.png",
-      "id": 58
-    },
-    {
-      "idPomocni": "monitor-8",
-      "naziv": "IIYAMA Prolite 21,5 VA LED monitor",
-      "cijena": "550.00",
-      "slika": "../img/monitor-8.png",
-      "id": 59
-    },
-    {
-      "idPomocni": "galaxys9",
-      "naziv": "Samsung Galaxy S9",
-      "cijena": "1600.00",
-      "slika": "../img/s9-removebg-preview.png",
-      "id": 60
-    }
   ],
   "korisnici": [
     {
